@@ -1,7 +1,7 @@
 body {
   font-family: "Poppins", sans-serif;
   color: #040000;
-  background-color: #ffffff;
+  background-color: #AEBDCA;
 }
 
 .layout_padding {
@@ -33,6 +33,7 @@ body {
   position: relative;
   background-image: url(../images/slider-img.jpg);
   padding: 45px 0;
+  background-color: #AEBDCA;
 }
 
 .sub_page .nav_section {
